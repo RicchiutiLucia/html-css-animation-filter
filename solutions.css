@@ -54,3 +54,22 @@
     filter: grayscale(1);
     filter:sepia(1);
 }
+/* Esercizio 8 */
+.ex-8-img {
+    transition: 4s;
+}
+.ex-8-img:hover {
+    filter: grayscale(1);
+    filter: sepia(1);
+    border-radius: 25px;
+}
+/* Esercizio 9*/
+.ex-9-img {
+    transition: 4s;
+}
+.ex-9-img:hover {
+    filter: grayscale(1);
+    filter: sepia(1);
+    border-radius: 25px;
+    transform: scale(1.5);
+}
